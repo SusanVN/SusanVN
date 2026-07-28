@@ -1,6 +1,6 @@
 # Hi, I'm Susan Vilchez
 
-🎓 Computer Science and Informatics Student at CIBERTEC  
+🎓 Computing and Informatics Student at CIBERTEC  
 💻 Developer | Java | Spring Boot  
 📍 Lima, Peru 
 
